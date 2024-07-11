@@ -11,7 +11,7 @@ module RLTK
 	autoload :CFG, 'rltk/cfg'
 	autoload :CG, 'rltk/cg'
 	autoload :Lexer, 'rltk/lexer'
-	autoload :LexingError, 'rltk/lexer'
+	autoload :LexingError, 'rltk/lexing_error'
 	autoload :Parser, 'rltk/parser'
 	autoload :Token, 'rltk/token'
 end
