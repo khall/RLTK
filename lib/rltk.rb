@@ -13,5 +13,6 @@ module RLTK
 	autoload :Lexer, 'rltk/lexer'
 	autoload :LexingError, 'rltk/lexing_error'
 	autoload :Parser, 'rltk/parser'
+	autoload :StreamPosition, 'rltk/stream_position'
 	autoload :Token, 'rltk/token'
 end
