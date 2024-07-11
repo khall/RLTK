@@ -4,7 +4,7 @@
 
 # RLTK requires
 require 'rltk/parser'
-require 'rltk/ast'
+require 'rltk/ast_node'
 
 module Brainfuck
 	class Operation < RLTK::ASTNode; end

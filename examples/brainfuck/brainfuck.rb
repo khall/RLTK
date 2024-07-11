@@ -7,7 +7,7 @@
 # RLTK requires
 require 'rltk/lexer'
 require 'rltk/parser'
-require 'rltk/ast'
+require 'rltk/ast_node'
 require 'rltk/cg/contractor'
 require 'rltk/cg/execution_engine'
 

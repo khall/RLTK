@@ -11,7 +11,7 @@
 require 'minitest/autorun'
 
 # Ruby Language Toolkit
-require 'rltk/ast'
+require 'rltk/ast_node'
 
 #######################
 # Classes and Modules #

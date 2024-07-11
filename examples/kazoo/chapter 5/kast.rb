@@ -4,7 +4,7 @@
 # Description:	This file defines a simple AST for the Kazoo language.
 
 # RLTK Files
-require 'rltk/ast'
+require 'rltk/ast_node'
 
 module Kazoo
 
