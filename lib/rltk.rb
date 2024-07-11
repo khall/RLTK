@@ -8,9 +8,10 @@
 # representing CFGs, lexers, parsers, and generating code using LLVM.
 module RLTK
 	autoload :AST, 'rltk/ast_node'
-	autoload :CFG,    'rltk/cfg'
-	autoload :CG,     'rltk/cg'
-	autoload :Lexer,  'rltk/lexer'
+	autoload :CFG, 'rltk/cfg'
+	autoload :CG, 'rltk/cg'
+	autoload :Lexer, 'rltk/lexer'
+	autoload :LexingError, 'rltk/lexer'
 	autoload :Parser, 'rltk/parser'
-	autoload :Token,  'rltk/token'
+	autoload :Token, 'rltk/token'
 end
